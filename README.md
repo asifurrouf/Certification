@@ -13,19 +13,19 @@ Top-paying certifications || Certifications Need to be covered
 
 ## Information Security certifications:
 
-CISM – Certified Information Security Manager — $148,622
-CRISC – Certified in Risk and Information Systems Control — $146,480
-CISSP – Certified Information Systems Security Professional — $141,452
-CISA – Certified Information Systems Auditor — $132,278
+1. CISM – Certified Information Security Manager — $148,622
+2. CRISC – Certified in Risk and Information Systems Control — $146,480
+3. CISSP – Certified Information Systems Security Professional — $141,452
+4. CISA – Certified Information Systems Auditor — $132,278
 
 ## Networking Certifications:
 
-CCA-N: Citrix Certified Associate – Networking — $125,264
-CCNP Routing and Switching — $119,178
+1. CCA-N: Citrix Certified Associate – Networking — $125,264
+2. CCNP Routing and Switching — $119,178
 
 ## Project Management Certifications:
 
-PMP® – Project Management Professional — $143,493
-ITIL® Foundation — $129,402
+1. PMP® – Project Management Professional — $143,493
+2. ITIL® Foundation — $129,402
 
 
